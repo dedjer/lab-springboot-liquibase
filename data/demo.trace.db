@@ -1,6 +1,0 @@
-2019-07-23 10:11:24 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DATABASECHANGELOGLOCK" not found; SQL statement:
-SELECT COUNT(*) FROM PUBLIC.DATABASECHANGELOGLOCK [42102-199]
-2019-07-23 10:11:25 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BILLIONAIRES" not found; SQL statement:
-ALTER TABLE PUBLIC.billionaires ADD address VARCHAR(255) [42102-199]
